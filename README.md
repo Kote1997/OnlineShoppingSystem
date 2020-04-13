@@ -1,4 +1,4 @@
-# online shopping system advanced
+# Online Shopping System
 
 online shopping system is a [DBMS project] with both admin and user layouts.
 
